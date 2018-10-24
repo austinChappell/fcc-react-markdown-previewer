@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { css } from 'react-emotion';
-// import './App.css';
 
 import Editor from './components/Editor';
 import Previewer from './components/Previewer';
